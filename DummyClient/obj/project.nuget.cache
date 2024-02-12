@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0itTqdi3ARRZjVZFsVG/7bpYLN/D1MVj+a1zcgyoadgAUD2sqv5mytao1um46jGwb1gP29zUlooXo++h52aW6w==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\PacketSession\\DummyClient\\DummyClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjh21\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pjh21\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pjh21\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\pjh21\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
